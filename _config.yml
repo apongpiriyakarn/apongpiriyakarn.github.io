@@ -1,2 +1,3 @@
 name: Aom Pongpiriyakarn, Harvey Mudd College
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
